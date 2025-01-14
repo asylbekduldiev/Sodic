@@ -18,7 +18,7 @@ async function Navbar() {
               Sodic
             </Link>
           </div>
-
+          
           <DesktopNavbar />
           <MobileNavbar />
         </div>
